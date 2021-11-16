@@ -1,2 +1,2 @@
-This repository contains greeting messages
+This repository contains git Katas
  
