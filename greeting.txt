@@ -1,4 +1,4 @@
-Good Morning!
-Good Afternoon!
-Good Evening!
-Good Night!
+GOOD MORNING!
+GOOD AFTERNOON!
+GOOD EVENING!
+GOOD NIGHT!
