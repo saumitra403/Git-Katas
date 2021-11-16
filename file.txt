@@ -2,4 +2,8 @@
 32
 =======
 322
+<<<<<<< HEAD
 >>>>>>> aa800d0 (Changed contents of file.txt in this branch)
+=======
+>>>>>>> Mergesort-impl
+>>>>>>> 2e3770ca3813ec734b944cf41dff1110805a6e03
